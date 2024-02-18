@@ -1,4 +1,4 @@
-    # Fractal Plotter
+# Fractal Plotter
 
 ![Fractal Patterns](fractals.png)
 
